@@ -9,6 +9,8 @@ Ohio University 2023 CTF Event
 - misc
 
 ## Challenges List
+- The Logs Say I Cannot Play
+  - My friend took me off the whitelist for their Minecraft server. Could you put me back on there since you can play on the server? Not sure if it helps, but they are running it on java 8 which has some sort of logging issue.
 - I mine all day
   - I misplaced my flag while mining, can you find it for me? It was left on a sign I think.
 - Simple am I right?
