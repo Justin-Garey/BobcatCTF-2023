@@ -2,7 +2,7 @@
 
 ### Description
 
-I'm stuck in jail and the only way to escape is to solve this math problem. Inputting that should get us our way out! Here is the problem: (x! * 4.5)/ 3 = 718502400
+I'm stuck in jail and the only way to escape is to solve this math problem. Inputting that should get us our way out! Here is the problem: (x! * 4.5)/ 3 = 718502400.
 
 ### Solution
 
