@@ -1,5 +1,5 @@
 Because I'm not totally mean..
-I will give you a docker commandfor running the container..
+I will give you a docker command for running the container..
 and the version of minecraft you should use.
 
 docker pull justingarey/just-for-fun:exploitable-minecraft

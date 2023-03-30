@@ -16,36 +16,20 @@ Ohio University 2023 CTF Event
   - I've hidden the flag in some code. You can't read the code and I don't think you ever will.
 - A Calculated Escape
   - I'm stuck in jail and the only way to escape is to solve this math problem. Inputting that should get us our way out! Here is the problem: (x! * 4.5)/ 3 = 718502400.
-
-
-## To Make
-- I mine all day
-  - I misplaced my flag while mining, can you find it for me? It was left on a sign I think.
-- Simple am I right?
-  - Overflow that buffer!
-- Injector
-  - Basic SQL injection
-- What role are you?
-  - The bot wants to know what role to assign you
-- PyMaze
-  - Find the pie, I mean flag at the end of the maze and bring it back
-- O U understand that?
-  - I forgot what this code means, I think you can fix it.
-- I left my keys in my cap
-  - Someone bought my cheap keyboard, can you let me know what they were typing?
-- Xord file 
-  - I was cooking some spaghetti while making a salad, but now I have weird cross between the two after spilling the salad in my spaghetti pot, can you help me separate the two?
-- Like taking candy from a baby
- - This kid is easily distracted and will just toss anything at you.
-- This site was flagged
-  - I got a pcap from it before it was shut down
-- Scary sounds
-  - I don't know what it is but this music gives me the creeps
-- Twins always stick together
-  - I was going to make an RSA key but when I found a prime, the twin would not let go
-- Image image image image image
-  - The network guy hid a message in this image, find it for him.
-- Regex Hell
-  - Not for the light hearted
-- Your a wizard V
-  - Only Cyberpunks can find this flag
+  - Port 4000
+- Get Buff
+  - Port 9000
+- Time and Relative Dimensions in Space
+  - Port 1112
+- Can You Hear Me
+  - Listen closely and you might just hear it.
+- Find Me
+  - It took some effort to hide this flag. Can you find it?
+- Git It
+  - I accidentally pushed the flag up one time. I've lost it since then. Could you retrieve it for me?
+- Heaps of Fun
+  - Port 5678
+- Mine All Day
+  - I hid my flag in a cave somewhere, can you find it? It was left on a sign I think.
+- So Shocked
+  - I would be shocked if you could use the shell to get this flag.
