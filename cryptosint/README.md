@@ -1,5 +1,9 @@
 # CryptOSINT
 
+## Author
+
+[Owen Salyer](https://github.com/osalyer02)
+
 ## Prompt
 
 A group of people have been harrassing my friend (instagram.com/sirbedeverebobcat). We recovered this zip file; can you help us track down the group and figure out what their mission is?

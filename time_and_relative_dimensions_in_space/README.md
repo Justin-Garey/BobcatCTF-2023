@@ -1,5 +1,9 @@
 # Get Buff
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Setup
 
 - This challenge makes use of a stack overflow with two buffers declared one after the other.

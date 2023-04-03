@@ -1,5 +1,9 @@
 # Base Exclusive
 
+## Author
+
+[Alex Williams](https://github.com/awisticky)
+
 ## Prompt
 
 So I encoded this and I think I accidentally did it twice. Please help me.

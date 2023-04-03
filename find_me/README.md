@@ -1,5 +1,9 @@
 # Find Me
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Prompt
 
 It took some effort to hide this flag. Can you find it?

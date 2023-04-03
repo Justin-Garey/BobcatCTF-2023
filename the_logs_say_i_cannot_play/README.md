@@ -1,5 +1,10 @@
 # Minecraft Log4j Exploit
+
 A fully working example of how to exploit log4j (CVE-2021-44228) on a Minecraft server as a CTF challenge
+
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
 
 ## Abstract
 

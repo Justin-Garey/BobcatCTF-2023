@@ -1,5 +1,9 @@
 # Can You Hear Me?
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Abstract
 
 Steganography is the practice of concealing information in another message such as an image or audio file. One method for storing information in an audio file is to modify the least significant bit of each sample in the audio file. This is a common approach to hiding information as it is easy to do and to reverse.

@@ -1,8 +1,12 @@
 # Mine All Day
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Prompt
 
-I hid my flag in a cave somewhere, can you find it? It was left on a sign I think.
+I hid my flag in a cave somewhere, can you find it? It was left on a sign I think. 
 
 ## Setup
 
@@ -15,7 +19,9 @@ java -Xmx4000M -Xms4000M -jar minecraft_server.jar nogui
 
 ## Solving the Challenge
 
-Using the anvil-parser in Python, we can find and see the data of signs in the world.
+Note: Minecraft is not needed to solve.
+
+Using the anvil-parser in Python, we can find and see the data of signs in the world. 
 
 ## References
 

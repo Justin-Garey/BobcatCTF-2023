@@ -1,5 +1,9 @@
 # So Shocked
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Abstract
 So Shocked makes use of ShellShock or CVE-2014-6271. There is a bug in the bash which should be exploited. 
 

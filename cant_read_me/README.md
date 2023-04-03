@@ -1,5 +1,9 @@
 # Can't Read Me
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Abstract
 
 Python code can be obfuscated but will still run the same. This means the assembly-esque version of the code will be the same.

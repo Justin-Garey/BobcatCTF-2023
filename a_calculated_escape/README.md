@@ -1,5 +1,9 @@
 # A Calculated Escape
 
+## Author
+
+[Justin Garey](https://github.com/Justin-Garey)
+
 ## Abstract
 
 Javascript is not type safe whatsoever. Using a very small set of characters, we can do anything we want in Javascript. 
