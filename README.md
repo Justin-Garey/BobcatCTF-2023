@@ -56,10 +56,6 @@ sudo docker container inspect $(docker ps -q) | grep -i IPADDRESS
 
 ## Contributors
 
-<table>
-  <tr>
-    <td valign="top"><a href="https://github.com/Justin-Garey"><img style="border-radius: 50%" src="https://github.com/Justin-Garey.png?size=75"/></a></td>
-    <td valign="top"><a href="https://github.com/awisticky"><img style="border-radius: 50%" src="https://github.com/awisticky.png?size=75"/></a></td>
-    <td valign="top"><a href="https://github.com/osalyer02"><img style="border-radius: 50%" src="https://github.com/osalyer02.png?size=75"/></a></td>
-  </tr>
-</table>
+[![Justin Garey Avatar Image](./_contributors/Justin-Garey_avatar.png)](https://github.com/Justin-Garey)
+[![Alex Williams Avatar Image](_contributors/awisticky_avatar.png)](https://github.com/awisticky)
+[![Owen Salyer Avatar Image](./_contributors/osalyer02_avatar.png)](https://github.com/osalyer02)
