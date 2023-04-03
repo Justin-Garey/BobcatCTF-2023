@@ -1,5 +1,7 @@
 # OU-2023-CTF
-Ohio University 2023 CTF Event
+Ohio University 2023 CTF Event, April 1st and 2nd
+
+The CTF lasted 24 hours with a total of 18 contestants and 8 teams. 
 
 ## Challenge Categories
 - starter
