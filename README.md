@@ -3,7 +3,6 @@ Ohio University 2023 CTF Event
 
 ## Challenge Categories
 - starter
-- web
 - crypto
 - rev
 - pwn
