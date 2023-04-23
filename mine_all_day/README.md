@@ -21,6 +21,8 @@ java -Xmx4000M -Xms4000M -jar minecraft_server.jar nogui
 
 Note: Minecraft is not needed to solve.
 
+[Download the world](https://drive.google.com/drive/folders/17ErOPU4ravrtU7mHpVcmxltBY3x9g_fs?usp=share_link)
+
 Using the anvil-parser in Python, we can find and see the data of signs in the world. 
 
 ## References
